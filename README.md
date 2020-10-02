@@ -2,9 +2,7 @@
 
 ![App Ideas Image](./mainBg.png)
 
-Unsure of what to build to show-off your Flutter skills?
-
-Looking to build an app but don't have a good idea?
+Unsure of what to build to show-off your Flutter skills? Looking to build an app but don't have a good idea?
 
 Look no further.  This is a curated collection of Flutter app ideas to help you get started.  Contributions are welcome, just see the "Contribute" section below for details.  Projects are separated into categories [beginner, intermediate, expert].
 
@@ -12,20 +10,21 @@ Look no further.  This is a curated collection of Flutter app ideas to help you 
 
 ### Beginner
 
+
 | Name | Description |
 | - | - |
 | [StartupGenerator](./Ideas/1\)Beginner/StartUpGenerator.md) | StartUp Name Generator |
 
 ### Intermediate
 
+
 | Name | Description |
 | - | - |
 | [ToDo List](./Ideas/2\)Intermediate/TodoList.md) | Todo list |
 | [Ecommerce App](./Ideas/2\)Intermediate/EcommerceApp.md) | Simple Ecommerce App |
 
-
-
 ### Expert
+
 
 | Name | Description |
 | - | - |
@@ -42,4 +41,3 @@ Look no further.  This is a curated collection of Flutter app ideas to help you 
 ### Maintainers
 
 - Bleyl Dev:[Twitter](https://www.twitter.com/BleylDev) |[YouTube](https://www.youtube.com/c/bleyldev)
-
