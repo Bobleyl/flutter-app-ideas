@@ -1,2 +1,36 @@
-# flutter-app-ideas
-Public repo for app ideas to build using Flutter
+# 📱 Flutter App Ideas
+
+Unsure of what to build to show-off your Flutter skills?
+
+Looking to build an app but don't have a good idea?
+
+Look no further.  This is a curated collection of Flutter app ideas to help you get started.  Contributions are welcome, just see the "Contribute" section below for details.  Projects are separated into categories [beginner, intermediate, expert].
+
+## 🗄 Projects
+
+### Beginner
+| Name                                                                              | Description                                         
+| --------------------------------------------------------------------------------- | ---------------------------------------------------------- 
+| [StartupGenerator](./Ideas/Beginner/StartUpGenerator.md)                          | StartUp Name Generator                                            
+
+### Intermediate
+| Name                                                                              | Description                                         
+| --------------------------------------------------------------------------------- | ---------------------------------------------------------- 
+| [Title](./Ideas/Intermediate/TodoList.md)                                         | Todo-list                                            
+
+
+### Expert
+| Name                                                                              | Description                                         
+| --------------------------------------------------------------------------------- | ---------------------------------------------------------- 
+| [Title](./Ideas/Expert/TwitterClone.md)                                           | Twitter Clone App                                            
+
+## ✏️ Contribute
+
+- Fork the repository
+- Find the appropriate folder to place your idea in [beginner, intermediate, expert]
+- Add your idea following the template.md file found in the root folder
+- BONUS: If you have the time, go ahead and link other projects that are similar to your idea, following the template as a reference
+- Thank You! The development community thrives on open-source contributions from developers such as yourself.
+
+### Maintainers
+- Bleyl Dev: [Twitter](https://www.twitter.com/BleylDev) | [YouTube](https://www.youtube.com/c/bleyldev)
