@@ -16,13 +16,13 @@ Look no further.  This is a curated collection of Flutter app ideas to help you 
 ### Intermediate
 | Name                                                                              | Description                                         
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- 
-| [Title](./Ideas/Intermediate/TodoList.md)                                         | Todo-list                                            
+| [ToDo List](./Ideas/Intermediate/TodoList.md)                                     | Todo list                                            
 
 
 ### Expert
 | Name                                                                              | Description                                         
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- 
-| [Title](./Ideas/Expert/TwitterClone.md)                                           | Twitter Clone App                                            
+| [Twitter Clone](./Ideas/Expert/TwitterClone.md)                                   | Twitter Clone App                                            
 
 ## ✏️ Contribute
 
