@@ -11,18 +11,18 @@ Look no further.  This is a curated collection of Flutter app ideas to help you 
 ### Beginner
 | Name                                                                              | Description                                         
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- 
-| [StartupGenerator](./Ideas/Beginner/StartUpGenerator.md)                          | StartUp Name Generator                                            
+| [StartupGenerator](./Ideas/1) Beginner/StartUpGenerator.md)                       | StartUp Name Generator                                            
 
 ### Intermediate
 | Name                                                                              | Description                                         
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- 
-| [ToDo List](./Ideas/Intermediate/TodoList.md)                                     | Todo list                                            
+| [ToDo List](./Ideas/2) Intermediate/TodoList.md)                                  | Todo list                                            
 
 
 ### Expert
 | Name                                                                              | Description                                         
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------- 
-| [Twitter Clone](./Ideas/Expert/TwitterClone.md)                                   | Twitter Clone App                                            
+| [Twitter Clone](./Ideas/3) Expert/TwitterClone.md)                                | Twitter Clone App                                            
 
 ## ✏️ Contribute
 
