@@ -2,7 +2,7 @@
 
 Add clear description of the app and what the intended functionality is.  Good description should be roughly 1 full paragraph, maybe 2 depending on complexity.
 
-## User Stories
+## Features
 
 - [ ] As a User I can ... first user story
 - [ ] As a User I can ... second user story
