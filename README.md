@@ -13,6 +13,9 @@ Look no further.  This is a curated collection of Flutter app ideas to help you 
 | Name | Description |
 | - | - |
 | [StartupGenerator](./Ideas/1\)Beginner/StartUpGenerator.md) | StartUp Name Generator |
+| [Calculator](./Ideas/1\)Beginner/Calculator.md) | Simple Calculator App |
+
+
 
 ### Intermediate
 
@@ -21,7 +24,6 @@ Look no further.  This is a curated collection of Flutter app ideas to help you 
 | [ToDo List](./Ideas/2\)Intermediate/TodoList.md) | Todo list |
 | [Ecommerce App](./Ideas/2\)Intermediate/EcommerceApp.md) | Simple Ecommerce App |
 | [Pokedex](./Ideas/2\)Intermediate/Pokedex.md) | Pokemon Collection App |
-
 
 ### Expert
 
