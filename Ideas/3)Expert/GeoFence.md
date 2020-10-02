@@ -14,17 +14,12 @@ Clock employees and other users time spent at a particular location based on geo
 - [ ] As an Admin I can see statistics on hours spent inside geofences by each user
 - [ ] As an Admin I can remove geofences from a user
 
-
 ## Additional features
 
 - [ ] As an Admin I can set a specific distance that the geofence encompasses with each site
 - [ ] As an Admin I can receive push notifications whenever users enter or leave geofences
 - [ ] As an Admin I can specify which geofences should trigger notifications and turn off geofences that I don't want notifications for (Ideal for parent knowing when kid gets home or leaves)
 
-- etc...
-
 ## Helpful documentation and resources
 
 - [GeoFencing Intro Tutorial](https://www.youtube.com/watch?v=MYHVyl-juUk)
-
-

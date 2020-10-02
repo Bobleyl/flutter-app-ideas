@@ -10,5 +10,4 @@ Users can add recipes, view recipes, add photos to recipes and more.  Create a c
 - [ ] As a User I can create recipes
 - [ ] As a User I can add titles, descriptions, ingredients and steps to my recipe
 - [ ] As a User I can add a photo to my recipe
-  
 

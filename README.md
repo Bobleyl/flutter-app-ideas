@@ -15,8 +15,6 @@ Look no further.  This is a curated collection of Flutter app ideas to help you 
 | [StartupGenerator](./Ideas/1\)Beginner/StartUpGenerator.md) | StartUp Name Generator |
 | [Calculator](./Ideas/1\)Beginner/Calculator.md) | Simple Calculator App |
 
-
-
 ### Intermediate
 
 | Name | Description |
@@ -24,15 +22,14 @@ Look no further.  This is a curated collection of Flutter app ideas to help you 
 | [ToDo List](./Ideas/2\)Intermediate/TodoList.md) | Todo list |
 | [Ecommerce App](./Ideas/2\)Intermediate/EcommerceApp.md) | Simple Ecommerce App |
 | [Pokedex](./Ideas/2\)Intermediate/Pokedex.md) | Pokemon Collection App |
-| [Pokedex](./Ideas/2\)Intermediate/Pokedex.md) | Pokemon Collection App |
-
-
+| [Recipe App](./Ideas/2\)Intermediate/Recipe.md) | Recipe App |
 
 ### Expert
 
 | Name | Description |
 | - | - |
 | [Twitter Clone](./Ideas/3\)Expert/TwitterClone.md) | Twitter Clone App |
+| [GeoFencing App](./Ideas/3\)Expert/GeoFence.md) | GeoFence Time Sheet |
 
 ## ✏️ Contribute
 
