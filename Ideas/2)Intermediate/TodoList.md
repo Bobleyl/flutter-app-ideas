@@ -1,26 +1,20 @@
-# App Name
+# Todo List
 
-Add clear description of the app and what the intended functionality is.  Good description should be roughly 1 full paragraph, maybe 2 depending on complexity.
+Create a todo list app where user can add tasks, remove tasks, check off tasks, etc.  There are a lot of additional features you could add, thus increasing it's complxity, but basic functionality should include all CRUD actions for todo list tasks.
 
 ## Features
 
-- [ ] As a User I can ... first user story
-- [ ] As a User I can ... second user story
-- [ ] As a User I can ... third user story
-- [ ] As a User I can ... fourth user story
-- etc...
+- [ ] As a User I can see a list of open todo tasks
+- [ ] As a User I can add tasks to my list
+- [ ] As a User I can remove tasks from my list
+- [ ] As a User I can update tasks on my list
 
 ## Additional features
 
-- [ ] As a User I can ... first bonus feature
-- [ ] As a User I can ... second bonus feature
-- etc...
+- [ ] As a User I can see details on tasks by clicking on the row
+- [ ] As a User I can add additional details to tasks
+- [ ] As a User I can store my tasks in Firestore
 
 ## Helpful documentation and resources
 
-- [ResourceName](resourceUrlHere)
-- [ResourceName](resourceUrlHere)
-
-## Example projects
-
-- [ProjectName](./Ideas/Beginner/Project.md)
+- [FlutterFire](https://firebase.flutter.dev/docs/overview/)
