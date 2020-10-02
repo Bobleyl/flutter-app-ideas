@@ -9,20 +9,22 @@ Look no further.  This is a curated collection of Flutter app ideas to help you 
 ## 🗄 Projects
 
 ### Beginner
-| Name                                                                              | Description                                         
-| --------------------------------------------------------------------------------- | ---------------------------------------------------------- 
-| [StartupGenerator](./Ideas/1)Beginner/StartUpGenerator.md)                       | StartUp Name Generator                                            
+
+| Name | Description |
+| - | - |
+| [StartupGenerator](./Ideas/1\)Beginner/StartUpGenerator.md) | StartUp Name Generator |
 
 ### Intermediate
-| Name                                                                              | Description                                         
-| --------------------------------------------------------------------------------- | ---------------------------------------------------------- 
-| [ToDo List](./Ideas/2)Intermediate/TodoList.md)                                  | Todo list                                            
 
+| Name | Description |
+| - | - |
+| [ToDo List](./Ideas/2\)Intermediate/TodoList.md) | Todo list |
 
 ### Expert
-| Name                                                                              | Description                                         
-| --------------------------------------------------------------------------------- | ---------------------------------------------------------- 
-| [Twitter Clone](./Ideas/3)Expert/TwitterClone.md)                                | Twitter Clone App                                            
+
+| Name | Description |
+| - | - |
+| [Twitter Clone](./Ideas/3\)Expert/TwitterClone.md) | Twitter Clone App |
 
 ## ✏️ Contribute
 
@@ -33,4 +35,6 @@ Look no further.  This is a curated collection of Flutter app ideas to help you 
 - Thank You! The development community thrives on open-source contributions from developers such as yourself.
 
 ### Maintainers
-- Bleyl Dev: [Twitter](https://www.twitter.com/BleylDev) | [YouTube](https://www.youtube.com/c/bleyldev)
+
+- Bleyl Dev:[Twitter](https://www.twitter.com/BleylDev) |[YouTube](https://www.youtube.com/c/bleyldev)
+
