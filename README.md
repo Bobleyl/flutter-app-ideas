@@ -1,5 +1,7 @@
 # 📱 Flutter App Ideas
 
+![App Ideas Image](./mainBg.png)
+
 Unsure of what to build to show-off your Flutter skills?
 
 Looking to build an app but don't have a good idea?
