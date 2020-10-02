@@ -21,6 +21,9 @@ Look no further.  This is a curated collection of Flutter app ideas to help you 
 | Name | Description |
 | - | - |
 | [ToDo List](./Ideas/2\)Intermediate/TodoList.md) | Todo list |
+| [Ecommerce App](./Ideas/2\)Intermediate/EcommerceApp.md) | Simple Ecommerce App |
+
+
 
 ### Expert
 
