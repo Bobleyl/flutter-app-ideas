@@ -24,6 +24,9 @@ Look no further.  This is a curated collection of Flutter app ideas to help you 
 | [Pokedex](./Ideas/2\)Intermediate/Pokedex.md) | Pokemon Collection App |
 | [Recipe App](./Ideas/2\)Intermediate/Recipe.md) | Recipe App |
 | [Meow Meow Beanz](./Ideas/2\)Intermediate/MeowMeowBeanz.md) | Meow Meow Beanz App from Community|
+| [Crypto Wallet](./Ideas/2\)Intermediate/CryptoWallet.md) | CryptoCurrency Wallet |
+
+
 
 ### Expert
 
@@ -37,7 +40,6 @@ Look no further.  This is a curated collection of Flutter app ideas to help you 
 - Fork the repository
 - Find the appropriate folder to place your idea in [beginner, intermediate, expert]
 - Add your idea following the template.md file found in the root folder
-- Be sure to lint .md file ensuring it follows proper .md file formatting
 - If you have the time, go ahead and link other projects that are similar to your idea, following the template as a reference
 - Thank You! The development community thrives on open-source contributions from developers such as yourself.
 
