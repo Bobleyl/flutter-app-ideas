@@ -23,6 +23,7 @@ Look no further.  This is a curated collection of Flutter app ideas to help you 
 | [Ecommerce App](./Ideas/2\)Intermediate/EcommerceApp.md) | Simple Ecommerce App |
 | [Pokedex](./Ideas/2\)Intermediate/Pokedex.md) | Pokemon Collection App |
 | [Recipe App](./Ideas/2\)Intermediate/Recipe.md) | Recipe App |
+| [Meow Meow Beanz](./Ideas/2\)Intermediate/MeowMeowBeanz.md) | Meow Meow Beanz App from Community|
 
 ### Expert
 

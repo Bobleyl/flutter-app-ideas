@@ -8,12 +8,14 @@ Add clear description of the app and what the intended functionality is.  Good d
 - [ ] As a User I can ... second user story
 - [ ] As a User I can ... third user story
 - [ ] As a User I can ... fourth user story
+
 - etc...
 
 ## Additional features
 
 - [ ] As a User I can ... first bonus feature
 - [ ] As a User I can ... second bonus feature
+
 - etc...
 
 ## Helpful documentation and resources
@@ -23,4 +25,5 @@ Add clear description of the app and what the intended functionality is.  Good d
 
 ## Example projects
 
-- [ProjectName](./Ideas/Beginner/Project.md)
+- [ProjectName](./Ideas/1\)Beginner/Project.md)
+
