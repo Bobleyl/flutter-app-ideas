@@ -14,6 +14,7 @@ Look no further.  This is a curated collection of Flutter app ideas to help you 
 | - | - |
 | [StartupGenerator](./Ideas/1\)Beginner/StartUpGenerator.md) | StartUp Name Generator |
 | [Calculator](./Ideas/1\)Beginner/Calculator.md) | Simple Calculator App |
+| [StopWatch](./Ideas/1\)Beginner/StopWatch.md) | StopWatch App |
 
 ### Intermediate
 
@@ -23,10 +24,8 @@ Look no further.  This is a curated collection of Flutter app ideas to help you 
 | [Ecommerce App](./Ideas/2\)Intermediate/EcommerceApp.md) | Simple Ecommerce App |
 | [Pokedex](./Ideas/2\)Intermediate/Pokedex.md) | Pokemon Collection App |
 | [Recipe App](./Ideas/2\)Intermediate/Recipe.md) | Recipe App |
-| [Meow Meow Beanz](./Ideas/2\)Intermediate/MeowMeowBeanz.md) | Meow Meow Beanz App from Community|
+| [Meow Meow Beanz](./Ideas/2\)Intermediate/MeowMeowBeanz.md) | Meow Meow Beanz App from Community |
 | [Crypto Wallet](./Ideas/2\)Intermediate/CryptoWallet.md) | CryptoCurrency Wallet |
-
-
 
 ### Expert
 
