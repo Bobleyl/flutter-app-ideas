@@ -35,8 +35,6 @@ Look no further.  This is a curated collection of Flutter app ideas to help you 
 | [Instagram Clone](./Ideas/3\)Expert/InstagramClone.md) | Instagram Clone App|
 | [Twitter Clone](./Ideas/3\)Expert/TwitterClone.md) | Twitter Clone App |
 
-
-
 ## ✏️ Contribute
 
 - Fork the repository
