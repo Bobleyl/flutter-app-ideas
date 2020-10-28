@@ -26,13 +26,15 @@ Look no further.  This is a curated collection of Flutter app ideas to help you 
 | [Recipe App](./Ideas/2\)Intermediate/Recipe.md) | Recipe App |
 | [Meow Meow Beanz](./Ideas/2\)Intermediate/MeowMeowBeanz.md) | Meow Meow Beanz App from Community |
 | [Crypto Wallet](./Ideas/2\)Intermediate/CryptoWallet.md) | CryptoCurrency Wallet |
+| [Audio Book](./Ideas/2\)Intermediate/AudioBook.md) | AudioBook App |
+
 
 ### Expert
 
 | Name | Description |
 | - | - |
 | [GeoFencing App](./Ideas/3\)Expert/GeoFence.md) | GeoFence Time Sheet |
-| [Instagram Clone](./Ideas/3\)Expert/InstagramClone.md) | Instagram Clone App|
+| [Instagram Clone](./Ideas/3\)Expert/InstagramClone.md) | Instagram Clone App |
 | [Twitter Clone](./Ideas/3\)Expert/TwitterClone.md) | Twitter Clone App |
 
 ## ✏️ Contribute
